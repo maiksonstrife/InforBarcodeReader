@@ -35,7 +35,6 @@ namespace InforBarcodeReader
                 foreach (string filial in userSetting.BarcodeFiliaisSettings)
                 {
                     filial.Trim('"');
-
                     char[] separator = { ';' };
                     String[] values = filial.Split(separator);
                     string filialName = values[0];
