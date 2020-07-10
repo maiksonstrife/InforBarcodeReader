@@ -51,7 +51,7 @@ namespace InforBarcodeReader
 
                     debug($"Iniciado ... {filialName}");
                     debug("Checando Arquivos ...");
-
+                
                     string[] barcodeFiles = Directory.GetFiles(signPath);
                 
                     int index = 0;
