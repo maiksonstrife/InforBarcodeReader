@@ -1,6 +1,8 @@
 # InforBarcodeReader
 <br><br>
--Solução Heineken<br>
--Permite Ler barcodes em pdf e separar por filiais em caminhos de saída.<br><br>
+-Configura Pasta de Monitoramento de arquivos barcode em PDF<br>
+-Configura Pasta de Saída de arquivos Barcode em PDF<br>
+
+-É possível criar diversos perfis de entrada e saida.
 
 ![](img/InforBarcodeReader.jpg)
